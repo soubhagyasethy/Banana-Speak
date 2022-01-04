@@ -1,2 +1,2 @@
 # Banana-Speak
- vanilaJs for beginners
+A fun app using VanilaJs.
